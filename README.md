@@ -10,4 +10,10 @@ Course design of Mechanical Design I
 
 ![屏幕快照 2021-11-13 下午11 30 20](https://user-images.githubusercontent.com/48986602/141649774-1cbd74be-5496-43f1-8c0b-9354b2761a23.png)
 
-## 
+## Dimensional design of the selected mechanism - Graphical method
+
+![1](https://user-images.githubusercontent.com/48986602/141649852-e397b904-014f-4b54-8aaf-1e54a45cbf3f.png)
+![1 1](https://user-images.githubusercontent.com/48986602/141649838-ffdb9162-334a-4e3a-bc7c-174213cfaf0f.png)
+![1 2](https://user-images.githubusercontent.com/48986602/141649846-2791bd46-aaa8-4928-964d-cc294fa35aa8.png)
+
+## Dimensional design of the selected mechanism - Graphical method
