@@ -24,3 +24,4 @@ Course design of Mechanical Design I
 
 ## Force analyze of mechanism
 
+![屏幕快照 2021-11-13 下午11 33 31](https://user-images.githubusercontent.com/48986602/141649937-a0fa6b34-9092-4057-931a-deab961a963f.png)
