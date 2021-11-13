@@ -16,4 +16,11 @@ Course design of Mechanical Design I
 ![1 1](https://user-images.githubusercontent.com/48986602/141649838-ffdb9162-334a-4e3a-bc7c-174213cfaf0f.png)
 ![1 2](https://user-images.githubusercontent.com/48986602/141649846-2791bd46-aaa8-4928-964d-cc294fa35aa8.png)
 
-## Dimensional design of the selected mechanism - Graphical method
+## Analytic method to prove
+
+![2](https://user-images.githubusercontent.com/48986602/141649896-935eb5cc-6719-48bb-8865-6f85f9afa45c.png)
+![2 1](https://user-images.githubusercontent.com/48986602/141649898-0921169d-895b-4e6b-a468-84fae8889ba5.png)
+![2 2](https://user-images.githubusercontent.com/48986602/141649900-578632d9-9b5d-4ceb-b33f-39fe56770fb9.png)
+
+## Force analyze of mechanism
+
